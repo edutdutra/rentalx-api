@@ -6,3 +6,6 @@ node_modules/
 
 # NPM Dependency
 package-lock.json
+
+# Temporary directories
+tmp/
